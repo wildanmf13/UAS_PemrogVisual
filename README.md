@@ -1,4 +1,4 @@
- UAS Pemrograman Visual Dekstop
+ UJIAN AKHIR SEMESTER (UAS) PEMROGRAMAN VISUAL DEKSTOP
 
 Nama   : Wildan Muhammad Fauzan
 
