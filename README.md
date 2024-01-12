@@ -1,13 +1,13 @@
-# UAS_PemrogVisual
+ UAS Pemrograman Visual Dekstop
 
-#Nama : Wildan Muhammad Fauzan
+Nama   : Wildan Muhammad Fauzan
 
-#NIM : 312110481
+NIM    : 312110481
 
-#Kelas : TI.21.A.3
+Kelas  : TI.21.A.3
 
-#Matkul : Pemrograman Visual Dekstop
+Matkul : Pemrograman Visual Dekstop
 
-#Link Youtube https://youtu.be/6rSxWYa8I2g
+Link Youtube https://youtu.be/6rSxWYa8I2g
 
 
